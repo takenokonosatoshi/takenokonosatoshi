@@ -4,10 +4,13 @@
 
 
 ## リンク
-- [Twitter]((https://twitter.com/66_63214K))
-
+- [Twitter](https://twitter.com/66_63214K)
+- [Note](https://note.com/neritakenoko)
+- [Youtube](https://www.youtube.com/channel/UCkT0oORiEyPpqTpnUx45JNg)
+- [Twitch](https://www.twitch.tv/takenokonosatoshi)
 
 <!--
+
 **takenokonosatoshi/takenokonosatoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
